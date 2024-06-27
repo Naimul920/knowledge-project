@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/y5c9L1j/daria-nepriakhina-x-Y55b-L5m-ZAM-unsplash.jpg",
+      "title": "Understanding React",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/gzr7PDD/chris-spiegl-CSJPm2-POib-Q-unsplash.jpg",
+      "posted_date": "2023-06-15",
+      "reading_time": "8 min",
+      "hashtags": ["#React", "#JavaScript", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/X38LfwP/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+      "title": "Getting Started with Flutter",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/3c83cP4/darius-bashar-Nc-Nk-Cp-Ml-YDk-unsplash.jpg",
+      "posted_date": "2023-05-20",
+      "reading_time": "10 min",
+      "hashtags": ["#Flutter", "#MobileDevelopment", "#Dart"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/4KBgX1z/jeshoots-com-p-UAM5h-Pa-CRI-unsplash.jpg",
+      "title": "Mastering Python",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/M560LFn/a-l-vrqa96bol-Ac-unsplash.jpg",
+      "posted_date": "2023-04-10",
+      "reading_time": "12 min",
+      "hashtags": ["#Python", "#Programming", "#DataScience"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/M560LFn/a-l-vrqa96bol-Ac-unsplash.jpg",
+      "title": "A Guide to Node.js",
+      "author": "Bob Brown",
+      "author_img": "https://i.ibb.co/DM9q52h/marcos-paulo-prado-g-Kq-Iv-UBsx-Ec-unsplash.jpg",
+      "posted_date": "2023-03-05",
+      "reading_time": "9 min",
+      "hashtags": ["#Nodejs", "#Backend", "#JavaScript"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/DrGhymt/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
+      "title": "CSS for Beginners",
+      "author": "Clara White",
+      "author_img": "https://i.ibb.co/gzr7PDD/chris-spiegl-CSJPm2-POib-Q-unsplash.jpg",
+      "posted_date": "2023-02-25",
+      "reading_time": "7 min",
+      "hashtags": ["#CSS", "#WebDesign", "#FrontEnd"]
+    }
+  ]
+  
